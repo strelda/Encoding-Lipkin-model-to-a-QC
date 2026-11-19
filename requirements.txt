@@ -1,0 +1,15 @@
+# Quantum computing libraries
+qiskit>=2.2.0,<3.0.0
+qiskit-aer>=0.17.0
+qiskit-ibm-runtime>=0.40.0
+qiskit_addon_sqd>=0.12.0
+
+# Scientific computing and visualization
+numpy>=2.0.0
+scipy>=1.15.0
+matplotlib>=3.9.0
+pylatexenc>=2.10
+
+# Interactive notebooks
+jupyterlab>=4.0.0
+ipykernel>=6.0.0
