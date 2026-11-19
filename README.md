@@ -2,7 +2,7 @@
 
 Comparison of binary vs. one-hot encoding schemes for quantum state driving of the Lipkin-Meshkov-Glick (LMG) model on gate-based quantum computers.
 
-Includes the full summary PDF in [`paper/State_driving_of_the_Lipkin_Meshkov_Glick_model_on_a_quantum_computer.pdf`](paper/State_driving_of_the_Lipkin_Meshkov_Glick_model_on_a_quantum_computer.pdf).
+Includes the full summary in [`notes.pdf`](notes.pdf).
 
 ## Overview
 
@@ -19,7 +19,7 @@ Simulating time-dependent quantum evolution on near-term hardware involves a fun
 
 ## Repository Contents
 
-- `paper/`: Document PDF and LaTeX source files.
+- `notes.pdf`: Summary document detailing theoretical derivations, encoding comparisons, and benchmark results.
 - `notebooks/`:
   - `01_QC_driving_Lipkin_binary.ipynb`: State driving benchmark using binary encoding.
   - `02_QC_driving_Lipkin_one_hot.ipynb`: State driving benchmark using one-hot encoding.
